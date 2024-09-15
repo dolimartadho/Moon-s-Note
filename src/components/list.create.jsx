@@ -24,7 +24,7 @@ export const ListCreate = () => {
   return (
     <div className="justify-around space-y-3 rounded-md bg-rose-50 p-24">
       <div className="">
-        <h1 className="text-5xl font-semibold">Moon's Note</h1>
+        <h1 className="text-5xl font-semibold">Moon&apos;s Note</h1>
         <p className="text-base font-thin">
           CATATAN BELANJA PELANGGAN MOONTHRIFT
         </p>
