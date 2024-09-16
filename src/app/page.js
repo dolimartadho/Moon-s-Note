@@ -23,7 +23,7 @@ export default async function page() {
         <ListCreate className="basis-1/2" />
       </div>
       <div className="basis-1/2">
-        {data.map((list) => {
+        {data?.map((list) => {
           return (
             <ListCard
               key={list._id}
